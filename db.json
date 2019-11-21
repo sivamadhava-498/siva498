@@ -1,6 +1,11 @@
 {
-	"posts": [{
-		"type": "1",
-		"value": "2"
-	}]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
